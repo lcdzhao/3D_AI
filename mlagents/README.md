@@ -9,7 +9,7 @@ https://www.bilibili.com/video/BV1qB4y1T7TG/?spm_id_from=333.999.0.0&vd_source=a
 - https://developer.unity.cn/u/liuxu-edn
 
 # 配置
-https://blog.csdn.net/tianjuewudi/article/details/121116043
+https://developer.unity.cn/projects/5e99c4daedbc2a0020a7ead8
 
 # 训练命令
 ```mlagents-learn config.yaml --force```
