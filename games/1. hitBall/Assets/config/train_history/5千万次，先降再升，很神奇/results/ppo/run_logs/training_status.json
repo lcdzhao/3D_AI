@@ -1,0 +1,245 @@
+{
+    "JuggleBrain": {
+        "checkpoints": [
+            {
+                "steps": 3999988,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-3999988.onnx",
+                "reward": 0.9666666835546494,
+                "creation_time": 1695606079.3505676,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-3999988.pt"
+                ]
+            },
+            {
+                "steps": 5999942,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-5999942.onnx",
+                "reward": 0.8666667143503824,
+                "creation_time": 1695607283.1203842,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-5999942.pt"
+                ]
+            },
+            {
+                "steps": 7999994,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-7999994.onnx",
+                "reward": 1.2750000283122063,
+                "creation_time": 1695608495.121352,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-7999994.pt"
+                ]
+            },
+            {
+                "steps": 9999997,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-9999997.onnx",
+                "reward": 1.8000000715255737,
+                "creation_time": 1695609718.4334745,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-9999997.pt"
+                ]
+            },
+            {
+                "steps": 11999980,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-11999980.onnx",
+                "reward": null,
+                "creation_time": 1695610975.1790395,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-11999980.pt"
+                ]
+            },
+            {
+                "steps": 13999992,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-13999992.onnx",
+                "reward": 2.100000023841858,
+                "creation_time": 1695612237.7562551,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-13999992.pt"
+                ]
+            },
+            {
+                "steps": 15999948,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-15999948.onnx",
+                "reward": 1.5499999821186066,
+                "creation_time": 1695613508.4258778,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-15999948.pt"
+                ]
+            },
+            {
+                "steps": 17999994,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-17999994.onnx",
+                "reward": 1.700000025331974,
+                "creation_time": 1695614781.4401278,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-17999994.pt"
+                ]
+            },
+            {
+                "steps": 19999937,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-19999937.onnx",
+                "reward": 1.0833333879709244,
+                "creation_time": 1695616062.980671,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-19999937.pt"
+                ]
+            },
+            {
+                "steps": 21999988,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-21999988.onnx",
+                "reward": 0.35000001825392246,
+                "creation_time": 1695617356.674047,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-21999988.pt"
+                ]
+            },
+            {
+                "steps": 23999963,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-23999963.onnx",
+                "reward": 1.100000061094761,
+                "creation_time": 1695618685.3446856,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-23999963.pt"
+                ]
+            },
+            {
+                "steps": 25999993,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-25999993.onnx",
+                "reward": 0.0,
+                "creation_time": 1695620074.328899,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-25999993.pt"
+                ]
+            },
+            {
+                "steps": 27999996,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-27999996.onnx",
+                "reward": 0.0,
+                "creation_time": 1695621639.401408,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-27999996.pt"
+                ]
+            },
+            {
+                "steps": 29999992,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-29999992.onnx",
+                "reward": 0.06250000139698386,
+                "creation_time": 1695623151.679986,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-29999992.pt"
+                ]
+            },
+            {
+                "steps": 31999991,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-31999991.onnx",
+                "reward": 0.1466666688521703,
+                "creation_time": 1695624616.6765122,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-31999991.pt"
+                ]
+            },
+            {
+                "steps": 33999998,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-33999998.onnx",
+                "reward": 0.16666667039195696,
+                "creation_time": 1695626035.2527685,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-33999998.pt"
+                ]
+            },
+            {
+                "steps": 35999972,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-35999972.onnx",
+                "reward": 0.36666667958100635,
+                "creation_time": 1695627415.1932106,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-35999972.pt"
+                ]
+            },
+            {
+                "steps": 37999994,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-37999994.onnx",
+                "reward": 0.05000000074505806,
+                "creation_time": 1695628758.1111286,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-37999994.pt"
+                ]
+            },
+            {
+                "steps": 39999994,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-39999994.onnx",
+                "reward": 3.274999987334013,
+                "creation_time": 1695630075.160175,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-39999994.pt"
+                ]
+            },
+            {
+                "steps": 41999964,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-41999964.onnx",
+                "reward": null,
+                "creation_time": 1695631385.6784637,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-41999964.pt"
+                ]
+            },
+            {
+                "steps": 43999958,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-43999958.onnx",
+                "reward": null,
+                "creation_time": 1695632695.314075,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-43999958.pt"
+                ]
+            },
+            {
+                "steps": 45999995,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-45999995.onnx",
+                "reward": null,
+                "creation_time": 1695633998.170164,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-45999995.pt"
+                ]
+            },
+            {
+                "steps": 47999996,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-47999996.onnx",
+                "reward": 2.2333333492279053,
+                "creation_time": 1695635306.2739465,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-47999996.pt"
+                ]
+            },
+            {
+                "steps": 49999979,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-49999979.onnx",
+                "reward": 6.099999979138374,
+                "creation_time": 1695636610.5025444,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-49999979.pt"
+                ]
+            },
+            {
+                "steps": 50000299,
+                "file_path": "results\\ppo\\JuggleBrain\\JuggleBrain-50000299.onnx",
+                "reward": 6.099999979138374,
+                "creation_time": 1695636610.539258,
+                "auxillary_file_paths": [
+                    "results\\ppo\\JuggleBrain\\JuggleBrain-50000299.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 50000299,
+            "file_path": "results\\ppo\\JuggleBrain.onnx",
+            "reward": 6.099999979138374,
+            "creation_time": 1695636610.539258,
+            "auxillary_file_paths": [
+                "results\\ppo\\JuggleBrain\\JuggleBrain-50000299.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.0.1+cpu"
+    }
+}
